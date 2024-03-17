@@ -3,6 +3,8 @@
 Welcome to the Bakery Memory Game! This is a simple memory game where you match pairs of bakery items hidden behind cards. 
 The game includes a timer to track the time taken to complete the game and a counter to keep track of the number of moves made.
 
+ **Note**: Clone or download the repository to your device and after downloading the repository as a zip file, make sure to unzip the folder before running the website, else the CSS and the JavaScript files will not be able to compile with the HTML file.
+ 
 ## How to Play
 
 1. **Setup**: Clone or download the repository to your device.
