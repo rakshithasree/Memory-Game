@@ -8,7 +8,7 @@ The game includes a timer to track the time taken to complete the game and a cou
 ## How to Play
 
 1. **Setup**: Clone or download the repository to your device.
-2. **Open**: Navigate to the directory where you have saved the game files and open the `index.html` file in your web browser.
+2. **Open**: Navigate to the directory where you have saved the game files and open the `indexmem.html` file in your web browser.
 3. **Start Game**: On the initial page, you'll see an option to "Start Game." Click on this to begin playing. The timer will start as soon as you click on the first card.
 4. **Gameplay**: Once the game starts, you'll see a 4x4 grid of cards, each containing a hidden image of a bakery item. Click on any card to reveal the image underneath.
 5. **Matching**: Try to find two cards with the same bakery item image. When you click on two cards with matching images, they will remain face-up.
